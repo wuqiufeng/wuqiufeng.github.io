@@ -78,3 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+  repository: http://github.com/Superbsco/Superbsco.github.io.git
+  branch: master
