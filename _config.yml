@@ -1,11 +1,11 @@
 # Site settings
-title: wuqiufeng Blog     #你博客的标题
+title: 舞秋风的博客 Blog     #你博客的标题
 SEOTitle: 舞秋风的博客 | wuqiufeng Blog   #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
 email: rootfuhz@gmail.com
 description: "Every failure is leading towards success."  #网站介绍
 keyword: "wuqiufeng Blog, 舞秋风的博客, wuqiufeng"  #关键词
-url: "http://wuqiufeng.github.io"          # your host, for absolute URL
+url: "http://mi1024.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wuqiufeng/wuqiufeng.github.io.git" # you code repository
 
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4   #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
   repo: qiubaiying.github.io    #仓库名称
